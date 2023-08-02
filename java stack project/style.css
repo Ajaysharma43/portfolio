@@ -41,6 +41,11 @@
 
 #logo {
     height: 30px;
+    transition: 1s;
+    align-items: center;
+}
+#logo:hover{
+    height: 40px;
 }
 
 #profile {
@@ -74,4 +79,16 @@
 }
 .navigation:hover{
     background-color: lightseagreen;
+    border-radius: 9px;
+}
+
+.image {
+    padding-top: 50px;
+}
+
+.my-name {
+    transition: 0.5s;
+}
+.my-name:hover{
+    color: green;
 }
