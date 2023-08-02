@@ -1,0 +1,27 @@
+.first {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#para1 {
+    color: white;   
+}
+
+#para2 {
+    font-family: fantasy;
+    color: gold;
+}
+
+.para3 {
+    text-align: left;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.LANGUAGES {
+    display: flex;
+    flex-wrap: wrap;
+}
